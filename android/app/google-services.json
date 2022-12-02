@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439560069846",
+    "project_id": "ishare-83c7b",
+    "storage_bucket": "ishare-83c7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439560069846:android:f148ec7af34809a2b55f77",
+        "android_client_info": {
+          "package_name": "payal.i_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439560069846-vlmbpuhubi9f745nsrfismgop8b6p26r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcD8TYb2Ro9EZklarcBSOH0jELFv7A5MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439560069846-vlmbpuhubi9f745nsrfismgop8b6p26r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
